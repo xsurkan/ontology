@@ -1,0 +1,1659 @@
+<?xml version="1.0"?>
+<Ontology xmlns="http://www.w3.org/2002/07/owl#"
+     xml:base="http://www.semanticweb.org/suryakant/ontologies/2018/10/untitled-ontology-49"
+     xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+     xmlns:xml="http://www.w3.org/XML/1998/namespace"
+     xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+     xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+     ontologyIRI="http://www.semanticweb.org/suryakant/ontologies/2018/10/untitled-ontology-49">
+    <Prefix name="" IRI="http://www.semanticweb.org/suryakant/ontologies/2018/10/untitled-ontology-49"/>
+    <Prefix name="owl" IRI="http://www.w3.org/2002/07/owl#"/>
+    <Prefix name="rdf" IRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#"/>
+    <Prefix name="xml" IRI="http://www.w3.org/XML/1998/namespace"/>
+    <Prefix name="xsd" IRI="http://www.w3.org/2001/XMLSchema#"/>
+    <Prefix name="rdfs" IRI="http://www.w3.org/2000/01/rdf-schema#"/>
+    <Import>http://www.semanticweb.org/suryakant/ontologies/2018/10/untitled-ontology-50</Import>
+    <Import>http://www.semanticweb.org/suryakant/ontologies/2018/10/untitled-ontology-47</Import>
+    <Declaration>
+        <Class IRI="/Senior_Actuarial_Analyst_Model_Development_and_Individual_Life_Analysis"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="/Manager,Business_Analytics"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="/Account_Management"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="/Client_Service_Administrator"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Scientist"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Financial_Service_Consultant"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="/Bilingual_Client_Services_Representative_Investment_Funds"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="/Test_Automation"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="/Compensation"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="/Director,_Wealth_Sales"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Vice-Président_Régional,_Distribution_Assurance_-_Réseau_des_Intermédiaires,_Québec__&amp;__Regional_Vice-President_Insurance_Distribution__Wholesale_Channel,_Quebec"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Analysts"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="/Knowledge_Specailist"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Onsite_Absence_and_Disability_Client_Advocate"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="/Director,_Expense_Management"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="/Group_Medical_Underwriter"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="/Stop_Loss_Overpayment_Recovery_Specialist"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="/Business_Development_-_Non_Actuarial"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="/Head_of_Training_&amp;_Development"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="/Digital_Web_Project_Manger-CMS-Digital_Solution"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="/Facilites_coordinator"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="/GRS_Customer_Care_Representative"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Creativity"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="/Email_Marketing_Specialist"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Senior_Manager_Institutional_Sales_&amp;_Client_Support"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="/Actuarial"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="/Business_Systems_Consultant"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="/Sales_Services_Associate"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="/Health_and_Safety_Officer"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="/Group_Retirement_Contract_Specialist"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="/AVP_Actuarial_US_Risk_Management"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="/Senior_Graphic_Designer"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Work_well_Independently"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="/Compliance"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="/Compliance_Manager"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Analyzing_Data"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="/Senior_Case_Manager_1,LTD"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="/Job_Description"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Communicating"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="/Application_Development_Sr_Analyst"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="/Manager_Accounts_Payable"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="/Business_analysis-process"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="/Senior_Digital_Graphic_Designer"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="/Associate_casual"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="/Customer_Care_Representative_Support"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="/Executive_Administrative_Assistant"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Product_Manager"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="/Business_Analyst,Group_Benefits_Business_Projects_&amp;_Solutions"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="/Administrative_services"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="/Senior_Client_Insights_Data_Analyst"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="/Investment_Analyst,_Portfolio_Management"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="/Business_Analyst-Reporting"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="/Risk_Mangement"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="/IT-Application_development"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="/Marketing"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="/Dealer_Initiatives_Consultant"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Gender_Identity"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="/Client_Care_Associate"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="/Senior_Manager_Product_Proposition"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="/Individual_Customer_Care_Representative"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="/Senior_Best_Practice_Consultant"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="/Marketing_Segments_Analyst"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Motivated"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="/Quality_Analysts"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="/Senior_Actuarial_Analyst"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="/Retail_Relations_Business_Stratergy"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="/Procurement_Associate_Casual"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="/Tier_2_Mutual_Fund_Manager"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="/Business_analysis-systems"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="/Senior_User_Experience_Architect"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="/Rehabilitation_Health_Management_Specialist"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="/Dental_Claims_Administrator"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="/Application_Analyst"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="/Legal"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Senior_Group_benefits_campaign_specialist_voluntary_benefits"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="/Audit_Manager-Internal_Audit,SLIM"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="/Financial_Planning_Analyst"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="/Client_Care_Associate-Fulfillment"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="/Customer_Care_Representative"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="/Facilites"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="/Case_Associate"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="/VP,Market_Development"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="/Solving_Problems"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="/Specialist_Actuarial"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="/Business_Systems_Analyst"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="/Manager_Technology_Infrastructure"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="/Director,_Group_Benefits_and_Absence_Management_Products"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="/Pega_Designer"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Prioritize"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Sharia_Business_Development_Manager"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="/Assistant_Vice_President-Compliance"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="/Manager,_Capital_Planning_and_Analysis"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Ability_to_Intiate"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="/Specialist-Business_System_Analyst"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Financial_Centre_Administrator"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="/Underwriting-Individual"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="/Senior_Analyst"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Customer_Service"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="/Director,commercial_mortgages-B.C.Region"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="/Clinical_Risk_Consultant_RN"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="/Customer_Service_or_operations"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="/Analyst_Testing"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Responsiblity"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Risk_Management_Support"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Client_Satisfaction"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="/Associate_Director_Measures_and_Metrics"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="/Coaching_and_Mentoring"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Future_Opportunities"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="/Digital_Mail_Administrator"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="/Motivated"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="/Procurement"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="/Head_of_Product_Marketing"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="/GRS_Supervisor"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="/Advanced_analytics"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="/Actuarial_Analyst_&amp;_Assistant_Actuary"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="/Internal_Audit"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="/Digital_Specialist"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="/Information_Security_Analyst"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="/Senior_Illustrations_Analyst"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="/AVP,Data_Science"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="/Payments_Project_Specialist"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Group_Benefits_Account_Executive_National_Accounts"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="/Web_Hosting_&amp;_Middleware_Administration"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Learning_Consultant"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="/Case_Resolution_Specialist,Mutual_Fund_Operations"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="/Communications"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="/Focused"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="/Director_Compliance-Privacy_Officer"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="/Operations_Senior_Consultant"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="/Client_Care_Representative"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Wealth_Sales_Director"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="/Service_Desk_Agent"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="/National_Disability_Support"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="/Software_Designer"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Financial_Centre_Administrator_Casual_on_call"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="/Human_resources"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="/Manager_Technology_Delivery"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="/Product"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="/Group_Benefits_Implementaion_Specialist"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="/Analyst_Actuarial"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="/Systems_Analyst"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="/Band"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Office_Management"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="/Head_of_Digital_Strategy"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="/Investments"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="/Claim_Manager"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="/Temporary_employee"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="/Counsel"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="/Innovation_Web_Desinger"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="/Sales-SIP"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="/Data_Scientist,_Client_Insights"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Client_Service"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="/Gender_Identity"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Committed"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="/Business_Partner,BET"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="/DevOps"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Flexible"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="/Sales-Distribution_support"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="/Finance"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="/Training_&amp;_Development"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="/Senior_Consultant_Appeals"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="/Senior_Accounting_Analyst_Investment_Finance"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#SSA_Palm"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="/Senior_Communications_Specialist"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="/Billingual_Service_Desk_Agent"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="/Underwriting-Group"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="/General_Management"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="/Relationship_Building"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="/Learning_and_Development_Consultant"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="/Future_Opportunities"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="/Project_Management-Systems"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Critical_Thinking"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="/Talent_Development_and_Engagement_Manager"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="/Claims-Health_&amp;_Dental"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Training_Seminars"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="/Development_Operations"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="/Sales_Direct"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="/Claims-Life_&amp;_Disability"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="/Financial_Reporting_Controls_Analyst"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="/Channel_Management"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="/Advantage_Client_Service_Administration"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="/Employee_Expenses_Support_Agent"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="/Call_centre"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="/Employee_Benefits_Representative"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="/Manager_Group_Compliance"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="/Sales-client_relationship_manager"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="/Director_Enterprise_Architect"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="/Manager_Capital_Planning_and_Analysis"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="/Regional_Claims_Center_Lead"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="/Job_category"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="/Manager_Sales_Data_&amp;_Analytics"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="/Senior_Business_Development_Consultant"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="/Actuarial_and_Product_Support_Analyst"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="/Trainer_1"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="/IT-technology_services"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Field_Recruiting_Specialist"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="/Contracting_&amp;_Licensing_Admin_Support"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Innovation"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="/Associate_Director,Global_Talent_Development"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="/Quality_Assurance_Analyst-Stop_Loss"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="/Senior_Client_Service_Representative"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="/Specialist_Development"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Communication_Skills"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="/Office_Administration"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="/Agency_Sales_office_administration"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="/Stop_Loss_Chain_Analyst"/>
+    </Declaration>
+    <SubClassOf>
+        <Class IRI="http://www.semanticweb.org/suryakant/ontologies/2018/10/untitled-ontology-47#Education"/>
+        <Class IRI="/Job_Description"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://www.semanticweb.org/suryakant/ontologies/2018/10/untitled-ontology-47#Qualification"/>
+        <Class IRI="/Job_Description"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Ability_to_Intiate"/>
+        <Class IRI="http://www.semanticweb.org/suryakant/ontologies/2018/10/untitled-ontology-50/Soft_Skills"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Analysts"/>
+        <Class IRI="http://www.semanticweb.org/suryakant/ontologies/2018/10/untitled-ontology-50/Analytical_Skills"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Analyzing_Data"/>
+        <Class IRI="http://www.semanticweb.org/suryakant/ontologies/2018/10/untitled-ontology-50/Analytical_Skills"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Client_Satisfaction"/>
+        <Class IRI="#Client_Service"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Client_Service"/>
+        <Class IRI="http://www.semanticweb.org/suryakant/ontologies/2018/10/untitled-ontology-50/Operational_Skills"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Committed"/>
+        <Class IRI="http://www.semanticweb.org/suryakant/ontologies/2018/10/untitled-ontology-50/Soft_Skills"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Communicating"/>
+        <Class IRI="http://www.semanticweb.org/suryakant/ontologies/2018/10/untitled-ontology-50/Communication"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Communication_Skills"/>
+        <Class IRI="http://www.semanticweb.org/suryakant/ontologies/2018/10/untitled-ontology-50/Communication"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Creativity"/>
+        <Class IRI="http://www.semanticweb.org/suryakant/ontologies/2018/10/untitled-ontology-50/Creative_Thinking"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Critical_Thinking"/>
+        <Class IRI="http://www.semanticweb.org/suryakant/ontologies/2018/10/untitled-ontology-50/Soft_Skills"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Customer_Service"/>
+        <Class IRI="http://www.semanticweb.org/suryakant/ontologies/2018/10/untitled-ontology-50/Customer_Support_Skills"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Field_Recruiting_Specialist"/>
+        <Class IRI="/Sales-Distribution_support"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Financial_Centre_Administrator"/>
+        <Class IRI="/Sales-Distribution_support"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Financial_Centre_Administrator_Casual_on_call"/>
+        <Class IRI="/Sales-Distribution_support"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Financial_Service_Consultant"/>
+        <Class IRI="/Sales-SIP"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Flexible"/>
+        <Class IRI="http://www.semanticweb.org/suryakant/ontologies/2018/10/untitled-ontology-50/Flexibility"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Future_Opportunities"/>
+        <Class IRI="/Product"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Gender_Identity"/>
+        <Class IRI="http://www.semanticweb.org/suryakant/ontologies/2018/10/untitled-ontology-50/Soft_Skills"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Group_Benefits_Account_Executive_National_Accounts"/>
+        <Class IRI="/Sales-SIP"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Innovation"/>
+        <Class IRI="http://www.semanticweb.org/suryakant/ontologies/2018/10/untitled-ontology-50/Soft_Skills"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Learning_Consultant"/>
+        <Class IRI="/Sales-Distribution_support"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Motivated"/>
+        <Class IRI="http://www.semanticweb.org/suryakant/ontologies/2018/10/untitled-ontology-50/Motivation"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Office_Management"/>
+        <Class IRI="http://www.semanticweb.org/suryakant/ontologies/2018/10/untitled-ontology-50/Project_Management"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Onsite_Absence_and_Disability_Client_Advocate"/>
+        <Class IRI="/Sales-Distribution_support"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Prioritize"/>
+        <Class IRI="http://www.semanticweb.org/suryakant/ontologies/2018/10/untitled-ontology-50/Soft_Skills"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Product_Manager"/>
+        <Class IRI="/Product"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Responsiblity"/>
+        <Class IRI="http://www.semanticweb.org/suryakant/ontologies/2018/10/untitled-ontology-50/Soft_Skills"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Risk_Management_Support"/>
+        <Class IRI="http://www.semanticweb.org/suryakant/ontologies/2018/10/untitled-ontology-50/Soft_Skills"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#SSA_Palm"/>
+        <Class IRI="/Sales-Distribution_support"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Scientist"/>
+        <Class IRI="/Product"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Senior_Group_benefits_campaign_specialist_voluntary_benefits"/>
+        <Class IRI="/Sales-client_relationship_manager"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Sharia_Business_Development_Manager"/>
+        <Class IRI="/Sales-Distribution_support"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Training_Seminars"/>
+        <Class IRI="http://www.semanticweb.org/suryakant/ontologies/2018/10/untitled-ontology-50/Project_Management"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Wealth_Sales_Director"/>
+        <Class IRI="/Sales-SIP"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Work_well_Independently"/>
+        <Class IRI="http://www.semanticweb.org/suryakant/ontologies/2018/10/untitled-ontology-50/Work_Ethic"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Senior_Manager_Institutional_Sales_&amp;_Client_Support"/>
+        <Class IRI="/Sales-Distribution_support"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Vice-Président_Régional,_Distribution_Assurance_-_Réseau_des_Intermédiaires,_Québec__&amp;__Regional_Vice-President_Insurance_Distribution__Wholesale_Channel,_Quebec"/>
+        <Class IRI="/Sales-SIP"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="/AVP_Actuarial_US_Risk_Management"/>
+        <Class IRI="/Risk_Mangement"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="/Account_Management"/>
+        <Class IRI="http://www.semanticweb.org/suryakant/ontologies/2018/10/untitled-ontology-50/Soft_Skills"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="/Actuarial"/>
+        <Class IRI="/Job_category"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="/Actuarial_and_Product_Support_Analyst"/>
+        <Class IRI="/Product"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="/Administrative_services"/>
+        <Class IRI="/Job_category"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="/Advanced_analytics"/>
+        <Class IRI="/Job_category"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="/Advantage_Client_Service_Administration"/>
+        <Class IRI="/Customer_Service_or_operations"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="/Agency_Sales_office_administration"/>
+        <Class IRI="/Sales-Distribution_support"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="/Analyst_Actuarial"/>
+        <Class IRI="/Business_analysis-systems"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="/Analyst_Testing"/>
+        <Class IRI="/IT-Application_development"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="/Application_Analyst"/>
+        <Class IRI="/IT-Application_development"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="/Application_Development_Sr_Analyst"/>
+        <Class IRI="/IT-Application_development"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="/Assistant_Vice_President-Compliance"/>
+        <Class IRI="/Compliance"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="/Associate_Director_Measures_and_Metrics"/>
+        <Class IRI="/Business_analysis-process"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="/Associate_casual"/>
+        <Class IRI="/Customer_Service_or_operations"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="/Band"/>
+        <Class IRI="/Systems_Analyst"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="/Bilingual_Client_Services_Representative_Investment_Funds"/>
+        <Class IRI="/Customer_Service_or_operations"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="/Billingual_Service_Desk_Agent"/>
+        <Class IRI="/IT-technology_services"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="/Business_Analyst-Reporting"/>
+        <Class IRI="/Finance"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="/Business_Development_-_Non_Actuarial"/>
+        <Class IRI="/Job_category"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="/Business_Systems_Analyst"/>
+        <Class IRI="/Business_analysis-systems"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="/Business_Systems_Consultant"/>
+        <Class IRI="/Business_analysis-systems"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="/Business_analysis-process"/>
+        <Class IRI="/Job_category"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="/Business_analysis-systems"/>
+        <Class IRI="/Job_category"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="/Call_centre"/>
+        <Class IRI="/Job_category"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="/Case_Associate"/>
+        <Class IRI="/Customer_Service_or_operations"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="/Channel_Management"/>
+        <Class IRI="/Job_category"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="/Claim_Manager"/>
+        <Class IRI="/Claims-Life_&amp;_Disability"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="/Client_Care_Associate"/>
+        <Class IRI="/Call_centre"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="/Client_Care_Associate-Fulfillment"/>
+        <Class IRI="/Call_centre"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="/Client_Care_Representative"/>
+        <Class IRI="/Call_centre"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="/Client_Service_Administrator"/>
+        <Class IRI="/Customer_Service_or_operations"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="/Clinical_Risk_Consultant_RN"/>
+        <Class IRI="/Underwriting-Group"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="/Coaching_and_Mentoring"/>
+        <Class IRI="http://www.semanticweb.org/suryakant/ontologies/2018/10/untitled-ontology-50/Training"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="/Communications"/>
+        <Class IRI="/Job_category"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="/Compensation"/>
+        <Class IRI="/Human_resources"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="/Compliance"/>
+        <Class IRI="/Job_category"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="/Compliance_Manager"/>
+        <Class IRI="/Compliance"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="/Counsel"/>
+        <Class IRI="/Legal"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="/Customer_Care_Representative"/>
+        <Class IRI="/Call_centre"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="/Customer_Care_Representative_Support"/>
+        <Class IRI="/Call_centre"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="/Customer_Service_or_operations"/>
+        <Class IRI="/Job_category"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="/Dealer_Initiatives_Consultant"/>
+        <Class IRI="/Customer_Service_or_operations"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="/Dental_Claims_Administrator"/>
+        <Class IRI="/Claims-Health_&amp;_Dental"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="/DevOps"/>
+        <Class IRI="/Development_Operations"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="/Development_Operations"/>
+        <Class IRI="http://www.semanticweb.org/suryakant/ontologies/2018/10/untitled-ontology-50/Development"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="/Digital_Mail_Administrator"/>
+        <Class IRI="/Office_Administration"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="/Digital_Specialist"/>
+        <Class IRI="/Communications"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="/Digital_Web_Project_Manger-CMS-Digital_Solution"/>
+        <Class IRI="/Project_Management-Systems"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="/Director_Compliance-Privacy_Officer"/>
+        <Class IRI="/Compliance"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="/Director_Enterprise_Architect"/>
+        <Class IRI="/IT-Application_development"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="/Email_Marketing_Specialist"/>
+        <Class IRI="/Communications"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="/Employee_Benefits_Representative"/>
+        <Class IRI="/Sales_Direct"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="/Employee_Expenses_Support_Agent"/>
+        <Class IRI="/IT-technology_services"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="/Executive_Administrative_Assistant"/>
+        <Class IRI="/Administrative_services"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="/Facilites"/>
+        <Class IRI="/Job_category"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="/Facilites_coordinator"/>
+        <Class IRI="/Facilites"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="/Finance"/>
+        <Class IRI="/Job_category"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="/Financial_Planning_Analyst"/>
+        <Class IRI="/Finance"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="/Financial_Reporting_Controls_Analyst"/>
+        <Class IRI="/Finance"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="/Focused"/>
+        <Class IRI="http://www.semanticweb.org/suryakant/ontologies/2018/10/untitled-ontology-50/Soft_Skills"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="/Future_Opportunities"/>
+        <Class IRI="/Human_resources"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="/GRS_Customer_Care_Representative"/>
+        <Class IRI="/Call_centre"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="/GRS_Supervisor"/>
+        <Class IRI="/Call_centre"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="/Gender_Identity"/>
+        <Class IRI="http://www.semanticweb.org/suryakant/ontologies/2018/10/untitled-ontology-50/Soft_Skills"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="/General_Management"/>
+        <Class IRI="/Job_category"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="/Group_Benefits_Implementaion_Specialist"/>
+        <Class IRI="/Sales-client_relationship_manager"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="/Group_Medical_Underwriter"/>
+        <Class IRI="/Underwriting-Individual"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="/Group_Retirement_Contract_Specialist"/>
+        <Class IRI="/Customer_Service_or_operations"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="/Head_of_Digital_Strategy"/>
+        <Class IRI="/Business_analysis-process"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="/Head_of_Product_Marketing"/>
+        <Class IRI="/Marketing"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="/Health_and_Safety_Officer"/>
+        <Class IRI="/Compliance"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="/Human_resources"/>
+        <Class IRI="/Job_category"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="/IT-Application_development"/>
+        <Class IRI="/Job_category"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="/IT-technology_services"/>
+        <Class IRI="/Job_category"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="/Individual_Customer_Care_Representative"/>
+        <Class IRI="/Call_centre"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="/Information_Security_Analyst"/>
+        <Class IRI="/IT-technology_services"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="/Innovation_Web_Desinger"/>
+        <Class IRI="/IT-Application_development"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="/Internal_Audit"/>
+        <Class IRI="/Job_category"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="/Investments"/>
+        <Class IRI="/Job_category"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="/Job_category"/>
+        <Class IRI="/Job_Description"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="/Knowledge_Specailist"/>
+        <Class IRI="/Customer_Service_or_operations"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="/Learning_and_Development_Consultant"/>
+        <Class IRI="/Training_&amp;_Development"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="/Legal"/>
+        <Class IRI="/Job_category"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="/Manager_Accounts_Payable"/>
+        <Class IRI="/Finance"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="/Manager_Capital_Planning_and_Analysis"/>
+        <Class IRI="/Finance"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="/Manager_Group_Compliance"/>
+        <Class IRI="/Compliance"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="/Manager_Technology_Delivery"/>
+        <Class IRI="/IT-technology_services"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="/Manager_Technology_Infrastructure"/>
+        <Class IRI="/IT-technology_services"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="/Marketing"/>
+        <Class IRI="/Job_category"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="/Marketing_Segments_Analyst"/>
+        <Class IRI="/Marketing"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="/Motivated"/>
+        <Class IRI="http://www.semanticweb.org/suryakant/ontologies/2018/10/untitled-ontology-50/Motivation"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="/National_Disability_Support"/>
+        <Class IRI="/Temporary_employee"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="/National_Disability_Support"/>
+        <Class IRI="/Claims-Life_&amp;_Disability"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="/Office_Administration"/>
+        <Class IRI="/Job_category"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="/Operations_Senior_Consultant"/>
+        <Class IRI="/Business_Development_-_Non_Actuarial"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="/Payments_Project_Specialist"/>
+        <Class IRI="/Claims-Life_&amp;_Disability"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="/Pega_Designer"/>
+        <Class IRI="/IT-Application_development"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="/Procurement"/>
+        <Class IRI="/Job_category"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="/Procurement_Associate_Casual"/>
+        <Class IRI="/Procurement"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="/Product"/>
+        <Class IRI="/Job_category"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="/Project_Management-Systems"/>
+        <Class IRI="/Job_category"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="/Quality_Analysts"/>
+        <Class IRI="http://www.semanticweb.org/suryakant/ontologies/2018/10/untitled-ontology-50/Analytical_Skills"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="/Quality_Assurance_Analyst-Stop_Loss"/>
+        <Class IRI="/Claims-Life_&amp;_Disability"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="/Regional_Claims_Center_Lead"/>
+        <Class IRI="/Claims-Life_&amp;_Disability"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="/Rehabilitation_Health_Management_Specialist"/>
+        <Class IRI="/Claims-Life_&amp;_Disability"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="/Relationship_Building"/>
+        <Class IRI="http://www.semanticweb.org/suryakant/ontologies/2018/10/untitled-ontology-50/Customer_Support_Skills"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="/Retail_Relations_Business_Stratergy"/>
+        <Class IRI="/Channel_Management"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="/Risk_Mangement"/>
+        <Class IRI="/Job_category"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="/Sales-Distribution_support"/>
+        <Class IRI="/Job_category"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="/Sales-SIP"/>
+        <Class IRI="/Job_category"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="/Sales-client_relationship_manager"/>
+        <Class IRI="/Job_category"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="/Sales_Direct"/>
+        <Class IRI="/Job_category"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="/Sales_Services_Associate"/>
+        <Class IRI="/Channel_Management"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="/Senior_Accounting_Analyst_Investment_Finance"/>
+        <Class IRI="/Finance"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="/Senior_Actuarial_Analyst"/>
+        <Class IRI="/Actuarial"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="/Senior_Actuarial_Analyst_Model_Development_and_Individual_Life_Analysis"/>
+        <Class IRI="/Actuarial"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="/Senior_Analyst"/>
+        <Class IRI="/Finance"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="/Senior_Best_Practice_Consultant"/>
+        <Class IRI="/Business_analysis-process"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="/Senior_Business_Development_Consultant"/>
+        <Class IRI="/Marketing"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="/Senior_Client_Insights_Data_Analyst"/>
+        <Class IRI="/Business_analysis-process"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="/Senior_Client_Service_Representative"/>
+        <Class IRI="/Customer_Service_or_operations"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="/Senior_Communications_Specialist"/>
+        <Class IRI="/Communications"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="/Senior_Consultant_Appeals"/>
+        <Class IRI="/Claims-Life_&amp;_Disability"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="/Senior_Digital_Graphic_Designer"/>
+        <Class IRI="/Marketing"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="/Senior_Graphic_Designer"/>
+        <Class IRI="/Communications"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="/Senior_Illustrations_Analyst"/>
+        <Class IRI="/Business_analysis-process"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="/Senior_Manager_Product_Proposition"/>
+        <Class IRI="/Marketing"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="/Senior_User_Experience_Architect"/>
+        <Class IRI="/Marketing"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="/Service_Desk_Agent"/>
+        <Class IRI="/IT-technology_services"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="/Software_Designer"/>
+        <Class IRI="/IT-Application_development"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="/Solving_Problems"/>
+        <Class IRI="http://www.semanticweb.org/suryakant/ontologies/2018/10/untitled-ontology-50/Soft_Skills"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="/Specialist-Business_System_Analyst"/>
+        <Class IRI="/Business_analysis-systems"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="/Specialist_Actuarial"/>
+        <Class IRI="/Actuarial"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="/Specialist_Development"/>
+        <Class IRI="/IT-Application_development"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="/Stop_Loss_Chain_Analyst"/>
+        <Class IRI="/Claims-Life_&amp;_Disability"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="/Stop_Loss_Overpayment_Recovery_Specialist"/>
+        <Class IRI="/Claims-Life_&amp;_Disability"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="/Systems_Analyst"/>
+        <Class IRI="/IT-Application_development"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="/Talent_Development_and_Engagement_Manager"/>
+        <Class IRI="/Human_resources"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="/Temporary_employee"/>
+        <Class IRI="/Job_category"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="/Test_Automation"/>
+        <Class IRI="http://www.semanticweb.org/suryakant/ontologies/2018/10/untitled-ontology-50/Testing"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="/Tier_2_Mutual_Fund_Manager"/>
+        <Class IRI="/Compliance"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="/Trainer_1"/>
+        <Class IRI="/Channel_Management"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="/Underwriting-Group"/>
+        <Class IRI="/Job_category"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="/Underwriting-Individual"/>
+        <Class IRI="/Job_category"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="/AVP,Data_Science"/>
+        <Class IRI="/Advanced_analytics"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="/Actuarial_Analyst_&amp;_Assistant_Actuary"/>
+        <Class IRI="/Actuarial"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="/Associate_Director,Global_Talent_Development"/>
+        <Class IRI="/Human_resources"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="/Audit_Manager-Internal_Audit,SLIM"/>
+        <Class IRI="/Internal_Audit"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="/Business_Analyst,Group_Benefits_Business_Projects_&amp;_Solutions"/>
+        <Class IRI="/Business_analysis-process"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="/Business_Partner,BET"/>
+        <Class IRI="/Business_analysis-process"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="/Case_Resolution_Specialist,Mutual_Fund_Operations"/>
+        <Class IRI="/Business_analysis-process"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="/Claims-Health_&amp;_Dental"/>
+        <Class IRI="/Job_category"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="/Claims-Life_&amp;_Disability"/>
+        <Class IRI="/Job_category"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="/Contracting_&amp;_Licensing_Admin_Support"/>
+        <Class IRI="/Administrative_services"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="/Data_Scientist,_Client_Insights"/>
+        <Class IRI="/Advanced_analytics"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="/Director,_Expense_Management"/>
+        <Class IRI="/Finance"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="/Director,_Group_Benefits_and_Absence_Management_Products"/>
+        <Class IRI="/Product"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="/Director,_Wealth_Sales"/>
+        <Class IRI="/Sales-SIP"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="/Director,commercial_mortgages-B.C.Region"/>
+        <Class IRI="/Investments"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="/Head_of_Training_&amp;_Development"/>
+        <Class IRI="/Channel_Management"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="/Investment_Analyst,_Portfolio_Management"/>
+        <Class IRI="/Finance"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="/Manager,Business_Analytics"/>
+        <Class IRI="/Advanced_analytics"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="/Manager,_Capital_Planning_and_Analysis"/>
+        <Class IRI="/Finance"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="/Manager_Sales_Data_&amp;_Analytics"/>
+        <Class IRI="/Advanced_analytics"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="/Senior_Case_Manager_1,LTD"/>
+        <Class IRI="/Claims-Life_&amp;_Disability"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="/Training_&amp;_Development"/>
+        <Class IRI="/Job_category"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="/VP,Market_Development"/>
+        <Class IRI="/General_Management"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="/Web_Hosting_&amp;_Middleware_Administration"/>
+        <Class IRI="/IT-technology_services"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://www.semanticweb.org/suryakant/ontologies/2018/10/untitled-ontology-50/Java"/>
+        <Class IRI="/Systems_Analyst"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://www.semanticweb.org/suryakant/ontologies/2018/10/untitled-ontology-50/Skills"/>
+        <Class IRI="/Job_Description"/>
+    </SubClassOf>
+    <DisjointClasses>
+        <Class IRI="#Field_Recruiting_Specialist"/>
+        <Class IRI="#Financial_Centre_Administrator"/>
+        <Class IRI="#Financial_Centre_Administrator_Casual_on_call"/>
+        <Class IRI="#Learning_Consultant"/>
+        <Class IRI="#Onsite_Absence_and_Disability_Client_Advocate"/>
+        <Class IRI="#SSA_Palm"/>
+        <Class IRI="#Sharia_Business_Development_Manager"/>
+        <Class IRI="#Senior_Manager_Institutional_Sales_&amp;_Client_Support"/>
+        <Class IRI="/Agency_Sales_office_administration"/>
+    </DisjointClasses>
+    <DisjointClasses>
+        <Class IRI="#Field_Recruiting_Specialist"/>
+        <Class IRI="#Financial_Centre_Administrator"/>
+        <Class IRI="#Financial_Centre_Administrator_Casual_on_call"/>
+        <Class IRI="#Learning_Consultant"/>
+        <Class IRI="#Onsite_Absence_and_Disability_Client_Advocate"/>
+        <Class IRI="#Sharia_Business_Development_Manager"/>
+        <Class IRI="#Senior_Manager_Institutional_Sales_&amp;_Client_Support"/>
+        <Class IRI="/Agency_Sales_office_administration"/>
+    </DisjointClasses>
+    <DisjointClasses>
+        <Class IRI="#Field_Recruiting_Specialist"/>
+        <Class IRI="#Financial_Centre_Administrator"/>
+        <Class IRI="#Financial_Centre_Administrator_Casual_on_call"/>
+        <Class IRI="#Learning_Consultant"/>
+        <Class IRI="#Onsite_Absence_and_Disability_Client_Advocate"/>
+        <Class IRI="#Senior_Manager_Institutional_Sales_&amp;_Client_Support"/>
+        <Class IRI="/Agency_Sales_office_administration"/>
+    </DisjointClasses>
+    <DisjointClasses>
+        <Class IRI="#Field_Recruiting_Specialist"/>
+        <Class IRI="#Financial_Centre_Administrator"/>
+        <Class IRI="#Financial_Centre_Administrator_Casual_on_call"/>
+        <Class IRI="#Learning_Consultant"/>
+        <Class IRI="#Onsite_Absence_and_Disability_Client_Advocate"/>
+        <Class IRI="/Agency_Sales_office_administration"/>
+    </DisjointClasses>
+    <DisjointClasses>
+        <Class IRI="/Actuarial"/>
+        <Class IRI="/Administrative_services"/>
+        <Class IRI="/Advanced_analytics"/>
+        <Class IRI="/Business_Development_-_Non_Actuarial"/>
+        <Class IRI="/Business_analysis-process"/>
+        <Class IRI="/Business_analysis-systems"/>
+        <Class IRI="/Call_centre"/>
+        <Class IRI="/Channel_Management"/>
+        <Class IRI="/Communications"/>
+        <Class IRI="/Compliance"/>
+        <Class IRI="/Customer_Service_or_operations"/>
+        <Class IRI="/Facilites"/>
+        <Class IRI="/Finance"/>
+        <Class IRI="/General_Management"/>
+        <Class IRI="/Human_resources"/>
+        <Class IRI="/IT-Application_development"/>
+        <Class IRI="/IT-technology_services"/>
+        <Class IRI="/Internal_Audit"/>
+        <Class IRI="/Investments"/>
+        <Class IRI="/Legal"/>
+        <Class IRI="/Marketing"/>
+        <Class IRI="/Office_Administration"/>
+        <Class IRI="/Procurement"/>
+        <Class IRI="/Product"/>
+        <Class IRI="/Project_Management-Systems"/>
+        <Class IRI="/Risk_Mangement"/>
+        <Class IRI="/Sales-Distribution_support"/>
+        <Class IRI="/Sales-SIP"/>
+        <Class IRI="/Sales-client_relationship_manager"/>
+        <Class IRI="/Sales_Direct"/>
+        <Class IRI="/Temporary_employee"/>
+        <Class IRI="/Underwriting-Group"/>
+        <Class IRI="/Underwriting-Individual"/>
+        <Class IRI="/Claims-Health_&amp;_Dental"/>
+        <Class IRI="/Claims-Life_&amp;_Disability"/>
+        <Class IRI="/Training_&amp;_Development"/>
+    </DisjointClasses>
+    <DisjointClasses>
+        <Class IRI="/Advantage_Client_Service_Administration"/>
+        <Class IRI="/Associate_casual"/>
+        <Class IRI="/Bilingual_Client_Services_Representative_Investment_Funds"/>
+        <Class IRI="/Case_Associate"/>
+        <Class IRI="/Client_Service_Administrator"/>
+        <Class IRI="/Dealer_Initiatives_Consultant"/>
+        <Class IRI="/Group_Retirement_Contract_Specialist"/>
+        <Class IRI="/Knowledge_Specailist"/>
+        <Class IRI="/Senior_Client_Service_Representative"/>
+    </DisjointClasses>
+    <DisjointClasses>
+        <Class IRI="/Analyst_Actuarial"/>
+        <Class IRI="/Business_Systems_Analyst"/>
+        <Class IRI="/Business_Systems_Consultant"/>
+        <Class IRI="/Specialist-Business_System_Analyst"/>
+    </DisjointClasses>
+    <DisjointClasses>
+        <Class IRI="/Analyst_Testing"/>
+        <Class IRI="/Application_Analyst"/>
+        <Class IRI="/Application_Development_Sr_Analyst"/>
+        <Class IRI="/Director_Enterprise_Architect"/>
+        <Class IRI="/Innovation_Web_Desinger"/>
+        <Class IRI="/Pega_Designer"/>
+        <Class IRI="/Software_Designer"/>
+        <Class IRI="/Specialist_Development"/>
+        <Class IRI="/Systems_Analyst"/>
+    </DisjointClasses>
+    <DisjointClasses>
+        <Class IRI="/Assistant_Vice_President-Compliance"/>
+        <Class IRI="/Compliance_Manager"/>
+        <Class IRI="/Director_Compliance-Privacy_Officer"/>
+        <Class IRI="/Health_and_Safety_Officer"/>
+        <Class IRI="/Manager_Group_Compliance"/>
+        <Class IRI="/Tier_2_Mutual_Fund_Manager"/>
+    </DisjointClasses>
+    <DisjointClasses>
+        <Class IRI="/Associate_Director_Measures_and_Metrics"/>
+        <Class IRI="/Head_of_Digital_Strategy"/>
+        <Class IRI="/Senior_Best_Practice_Consultant"/>
+        <Class IRI="/Senior_Client_Insights_Data_Analyst"/>
+        <Class IRI="/Senior_Illustrations_Analyst"/>
+        <Class IRI="/Business_Analyst,Group_Benefits_Business_Projects_&amp;_Solutions"/>
+        <Class IRI="/Business_Partner,BET"/>
+        <Class IRI="/Case_Resolution_Specialist,Mutual_Fund_Operations"/>
+    </DisjointClasses>
+    <DisjointClasses>
+        <Class IRI="/Band"/>
+        <Class IRI="http://www.semanticweb.org/suryakant/ontologies/2018/10/untitled-ontology-50/Java"/>
+    </DisjointClasses>
+    <DisjointClasses>
+        <Class IRI="/Business_Analyst-Reporting"/>
+        <Class IRI="/Financial_Planning_Analyst"/>
+        <Class IRI="/Financial_Reporting_Controls_Analyst"/>
+        <Class IRI="/Manager_Accounts_Payable"/>
+        <Class IRI="/Manager_Capital_Planning_and_Analysis"/>
+        <Class IRI="/Senior_Accounting_Analyst_Investment_Finance"/>
+        <Class IRI="/Senior_Analyst"/>
+        <Class IRI="/Director,_Expense_Management"/>
+        <Class IRI="/Investment_Analyst,_Portfolio_Management"/>
+        <Class IRI="/Manager,_Capital_Planning_and_Analysis"/>
+    </DisjointClasses>
+    <DisjointClasses>
+        <Class IRI="/Business_Analyst-Reporting"/>
+        <Class IRI="/Financial_Planning_Analyst"/>
+        <Class IRI="/Financial_Reporting_Controls_Analyst"/>
+        <Class IRI="/Director,_Expense_Management"/>
+        <Class IRI="/Manager,_Capital_Planning_and_Analysis"/>
+    </DisjointClasses>
+    <DisjointClasses>
+        <Class IRI="/Client_Care_Associate"/>
+        <Class IRI="/Client_Care_Associate-Fulfillment"/>
+        <Class IRI="/Client_Care_Representative"/>
+        <Class IRI="/Customer_Care_Representative"/>
+        <Class IRI="/Customer_Care_Representative_Support"/>
+        <Class IRI="/GRS_Customer_Care_Representative"/>
+        <Class IRI="/GRS_Supervisor"/>
+        <Class IRI="/Individual_Customer_Care_Representative"/>
+    </DisjointClasses>
+    <DisjointClasses>
+        <Class IRI="/Compensation"/>
+        <Class IRI="/Future_Opportunities"/>
+        <Class IRI="/Talent_Development_and_Engagement_Manager"/>
+        <Class IRI="/Associate_Director,Global_Talent_Development"/>
+    </DisjointClasses>
+    <DisjointClasses>
+        <Class IRI="/Digital_Specialist"/>
+        <Class IRI="/Email_Marketing_Specialist"/>
+        <Class IRI="/Senior_Communications_Specialist"/>
+        <Class IRI="/Senior_Graphic_Designer"/>
+    </DisjointClasses>
+    <DisjointClasses>
+        <Class IRI="/Retail_Relations_Business_Stratergy"/>
+        <Class IRI="/Sales_Services_Associate"/>
+        <Class IRI="/Trainer_1"/>
+        <Class IRI="/Head_of_Training_&amp;_Development"/>
+    </DisjointClasses>
+    <DisjointClasses>
+        <Class IRI="/AVP,Data_Science"/>
+        <Class IRI="/Data_Scientist,_Client_Insights"/>
+        <Class IRI="/Manager,Business_Analytics"/>
+        <Class IRI="/Manager_Sales_Data_&amp;_Analytics"/>
+    </DisjointClasses>
+</Ontology>
+
+
+
+<!-- Generated by the OWL API (version 4.2.8.20170104-2310) https://github.com/owlcs/owlapi -->
+
